@@ -10,3 +10,8 @@ Currently, two official plugins are available:
 =======
 # react-jobs
 >>>>>>> 946583c22aa43e530d92d742adf8cd597f0c6981
+
+
+To run:
+1. npm run dev
+2. npm run server
